@@ -1,0 +1,8 @@
+E:\C#\Exercises\optional-parameters\optional-parameters\bin\Debug\optional-parameters.exe.config
+E:\C#\Exercises\optional-parameters\optional-parameters\bin\Debug\optional-parameters.exe
+E:\C#\Exercises\optional-parameters\optional-parameters\bin\Debug\optional-parameters.pdb
+E:\C#\Exercises\optional-parameters\optional-parameters\obj\Debug\optional-parameters.csproj.AssemblyReference.cache
+E:\C#\Exercises\optional-parameters\optional-parameters\obj\Debug\optional-parameters.csproj.SuggestedBindingRedirects.cache
+E:\C#\Exercises\optional-parameters\optional-parameters\obj\Debug\optional-parameters.csproj.CoreCompileInputs.cache
+E:\C#\Exercises\optional-parameters\optional-parameters\obj\Debug\optional-parameters.exe
+E:\C#\Exercises\optional-parameters\optional-parameters\obj\Debug\optional-parameters.pdb
